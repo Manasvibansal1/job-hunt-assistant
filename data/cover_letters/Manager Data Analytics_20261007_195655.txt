@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Data Manager position within the Central TB Division (CTD). With over four years of experience as a Data & Operations Analyst, I have built automated reporting pipelines, driven data quality initiatives, and delivered actionable insights that directly influence program strategy. My background aligns closely with the CTD’s mission to strengthen data quality, support routine and ad‑hoc analyses, and enable data‑driven decision‑making for the National TB Elimination Programme (NTEP).
+
+During my tenure at Vanguard Analytics, I led a data quality improvement project that reduced data entry errors by 18% and achieved 99.5% accuracy for critical operational KPIs. I designed automated validation rules in Python and SQL, integrated them into our ETL processes, and established a real‑time monitoring dashboard in Tableau. These efforts not only enhanced data reliability but also accelerated executive decision‑making by 20%. I believe this experience directly translates to the CTD’s need for a data‑management focal point who can ensure the integrity of Nikshay and other NTEP datasets.
+
+At InnoTech Solutions, I partnered with finance and engineering teams to audit data compliance standards across cloud repositories. I developed a comprehensive data governance framework that aligned with regulatory requirements and facilitated cross‑departmental collaboration. This role sharpened my ability to coordinate with diverse stakeholders—an essential skill for supporting NTEP teams in their routine data requirements and program reviews.
+
+I am particularly drawn to the opportunity to contribute to TB elimination efforts. The prospect of applying my technical expertise in Python, SQL, and Tableau to public health data, while championing data quality and compliance, is both professionally fulfilling and personally meaningful. I am eager to bring my proven track record of building scalable data pipelines, designing KPI dashboards, and fostering stakeholder engagement to the CTD.
+
+Thank you for considering my application. I look forward to the possibility of discussing how my background, skills, and passion for data‑driven public health can support the CTD’s objectives.
+
+Sincerely,
+
+Aman Verma
